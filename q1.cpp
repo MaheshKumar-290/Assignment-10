@@ -14,3 +14,4 @@
  cout << (containsDuplicate(nums) ? "true\n" : "false\n");
     return 0;
  }
+
